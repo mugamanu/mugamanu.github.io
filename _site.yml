@@ -8,9 +8,9 @@ navbar:
     - text: "About"
       href: about.html
     - text: "Modelos económicos"
-      href: index2.Rmd
+      href: index2.html
     - text: "Teorías económicas"
-    - href: index3.Rmd
+    - href: index3.html
 output:
   html_document:
     theme: united
