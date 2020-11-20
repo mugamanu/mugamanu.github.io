@@ -1,0 +1,8 @@
+---
+title: "Modelos económicos"
+---
+
+Lista de modelos económicos
+Un modelo económico es una representación de la realidad
+
+## Duopolio de Stackelberg 
