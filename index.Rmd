@@ -5,3 +5,7 @@ title: "My Website"
 Hello, Website!
 
 ## ¡Hola! Bienvenidos a mi página web; aquí estaré actualizando una lista de palabras, términos y conceptos ampliamente utilizados en economía. ¡Gracias!
+
+## Economías de escala: Hay economías de escala cuando los costos unitarios de la producción caen con la cantidad total producida.
+
+## Economias de alcance: Hay economías de alcance cuando los costos unitarios caen debido a que dos o más bienes se producen de forma conjunta. (Motta,2018)
