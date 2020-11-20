@@ -10,7 +10,11 @@ navbar:
     - text: "Modelos económicos"
       href: index2.html
     - text: "Teorías económicas"
-    - href: index3.html
+      href: index3.html
+    - text: "Paquetes informáticos"
+      href: index4.html 
+    - text: "Multidisciplinariedad de la economía"
+      href: index5.html
 output:
   html_document:
     theme: united

@@ -1,0 +1,15 @@
+---
+title: "Paquetes informáticos"
+---
+
+Lista de paquetes informáticos
+
+## ¡Hola! Bienvenidos a mi página web; aquí estaré actualizando una lista de palabras, términos y conceptos ampliamente utilizados en economía. ¡Gracias!
+
+## LaTex
+
+## Stata
+
+## RStudio
+
+## EViews
